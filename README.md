@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Resium Fun
+
+A playground for resium (cesium.js in react). Uses the `craco` plugin for `create-react-app`.
+
+https://github.com/reearth/resium
+
+https://github.com/reearth/craco-cesium
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
