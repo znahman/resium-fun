@@ -2,6 +2,10 @@
 
 A playground for resium (cesium.js in react). Uses the `craco` plugin for `create-react-app`.
 
+It's got the neighborhoods of Denver currently displayed on it. These are read from a `geojson` file of Denver's neighborhoods.
+
+![Denver Neighborhoods](/denver-resium.png?raw=true "Optional Title")
+
 https://github.com/reearth/resium
 
 https://github.com/reearth/craco-cesium
